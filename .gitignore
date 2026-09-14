@@ -47,3 +47,8 @@ data/models/model_0401.17.02.023.pt_x
 
 # CODESYS
 PLC/*.opt
+PLC/*.bootinfo
+PLC/*.bootinfo_guids
+PLC/*.compileinfo
+PLC/*.xml
+PLC/*.~u
