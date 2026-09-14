@@ -44,3 +44,6 @@ data/models/model_312.229.002.pt.old
 data/models/model_312.229.001.pt.old
 data/models/model_0401.28.02.063.pt.old
 data/models/model_0401.17.02.023.pt_x
+
+# CODESYS
+PLC/*.opt
